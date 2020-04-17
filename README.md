@@ -1,12 +1,10 @@
-SEG Major Project
+### SEG Major Project - Hospital CMS
 
 Project #4: Parental Education - Paediatric Liver Service, King's College Hospital
 
-Team name: WilliWaller
+Team members: Oskar Ljungdell, Scott Anderson, David Edouard Azoulai, Artur Ganeev, Antoine Gosset, Victoria Hayes, Ivan Hristev, Layth Mehdi
 
-Team members: Oskar Ljungdell, Scott Anderson, David Azoulai, Artur Ganeev, Antoine Gosset, Victoria Hayes, Ivan Hristev, Layth Mehdi
-
-Run instructions :
+This project was made in the context of a 10 weeks assignment for the Paediatric Liver Service at the King's College Hospital. This work is delivered under a free software license as stated in the original requirements. The code is available to all prospective developers, including the students who developed the project.
 
 ## Deployment - Docker
 
